@@ -12,7 +12,7 @@
 
         <!-- Styles -->
         @livewireStyles
-
+        <link href="/css/app.css" rel="stylesheet">
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
